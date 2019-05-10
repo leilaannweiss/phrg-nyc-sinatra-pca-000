@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe LandmarksController do
   before do
     queenb = Figure.create(:name => "Beyonce")
