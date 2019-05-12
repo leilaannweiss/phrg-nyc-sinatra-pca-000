@@ -15,4 +15,3 @@ use Rack::MethodOverride
 use LandmarksController
 use FiguresController
 run ApplicationController
-
